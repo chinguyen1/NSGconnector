@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=funceo52qq4w5wcwq;AccountKey=lyoxeRM5wYlURd0nhAAuR6WXhOxsHBakirqKTAxwJ/mpisDgWBdoDzKXuMTERfMQGT0BoMK5zhcLRn1IR8Om2w==",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "nsgSourceDataAccount": "nsgSourceDataConnection",
+    "nsgSourceDataConnection": "DefaultEndpointsProtocol=https;AccountName=azuresentineldiag503;AccountKey=fsL00/CRgw+7hoy1RZ5kOm0irHvMiCqrLucMw5yQVc7X7L2kZH3sSS5A+irdSh2bsoyHEjRNRcMJF8AQIo9cOA==;EndpointSuffix=core.windows.net",
+    "blobContainerName": "insights-logs-networksecuritygroupflowevent",
+    "logIncomingJSON": false,
+    "outputBinding": "loganalytics",
+    "customerId": "5fdd8015-d845-4e1d-84ba-f9bd7afd9879",
+    "sharedKey": "PMuTxKv2URhreKszz/RXk1eVDhlBaTp4+DIW80D5cdpoqU2eA2gmKyGDQbe/sfYVTmcC1Uo3IKKuoi3nIdD3rQ=="
+  }
+}
