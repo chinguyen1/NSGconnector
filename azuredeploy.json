@@ -75,7 +75,7 @@
         "logstash",
         "loganalytics"
       ],
-      "defaultValue": "loganalytics",
+      "defaultValue": "log analytics",
       "metadata": {
         "description": "Select the desired destination for your logs."
       }
